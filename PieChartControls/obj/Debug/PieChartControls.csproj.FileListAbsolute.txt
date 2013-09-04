@@ -1,0 +1,15 @@
+C:\Users\ssor\Desktop\PieChart\PieChartControls\bin\Debug\PieChartControls.dll
+C:\Users\ssor\Desktop\PieChart\PieChartControls\bin\Debug\PieChartControls.pdb
+C:\Users\ssor\Desktop\PieChart\PieChartControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ssor\Desktop\PieChart\PieChartControls\obj\Debug\PieChartControls.dll
+C:\Users\ssor\Desktop\PieChart\PieChartControls\obj\Debug\PieChartControls.pdb
+C:\项目\智能教室\projects\智能教室2012-7-22\PieChartControls\bin\Debug\PieChartControls.dll
+C:\项目\智能教室\projects\智能教室2012-7-22\PieChartControls\bin\Debug\PieChartControls.pdb
+C:\项目\智能教室\projects\智能教室2012-7-22\PieChartControls\obj\Debug\ResolveAssemblyReference.cache
+C:\项目\智能教室\projects\智能教室2012-7-22\PieChartControls\obj\Debug\PieChartControls.dll
+C:\项目\智能教室\projects\智能教室2012-7-22\PieChartControls\obj\Debug\PieChartControls.pdb
+C:\program\csharp\CarPartingManagementSys\PieChartControls\bin\Debug\PieChartControls.dll
+C:\program\csharp\CarPartingManagementSys\PieChartControls\bin\Debug\PieChartControls.pdb
+C:\program\csharp\CarPartingManagementSys\PieChartControls\obj\Debug\ResolveAssemblyReference.cache
+C:\program\csharp\CarPartingManagementSys\PieChartControls\obj\Debug\PieChartControls.dll
+C:\program\csharp\CarPartingManagementSys\PieChartControls\obj\Debug\PieChartControls.pdb

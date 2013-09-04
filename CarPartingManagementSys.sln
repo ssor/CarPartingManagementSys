@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPartingManagementSys", "CarPartingManagementSys\CarPartingManagementSys.csproj", "{019544C7-9D52-4718-9512-B9F12515A274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PieChartControls", "PieChartControls\PieChartControls.csproj", "{400546F8-14C6-47F5-A282-AC8662081150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019544C7-9D52-4718-9512-B9F12515A274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019544C7-9D52-4718-9512-B9F12515A274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019544C7-9D52-4718-9512-B9F12515A274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019544C7-9D52-4718-9512-B9F12515A274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400546F8-14C6-47F5-A282-AC8662081150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400546F8-14C6-47F5-A282-AC8662081150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400546F8-14C6-47F5-A282-AC8662081150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400546F8-14C6-47F5-A282-AC8662081150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
